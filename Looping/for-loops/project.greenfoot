@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Sun Jan 31 17:13:20 PST 2016
+#Sun Jan 31 22:42:53 PST 2016
 target2.name=Example
 target2.editor.height=700
 dependency1.from=ForLoop
@@ -22,15 +22,15 @@ target1.showInterface=false
 class.Example.image=dolphin.png
 target1.name=ForLoop
 target2.typeParameters=
-mainWindow.width=1382
+mainWindow.width=1364
 target1.typeParameters=
 target1.editor.y=20
 target1.editor.x=40
 target2.width=80
-mainWindow.y=-8
+mainWindow.y=1
 target1.width=80
-mainWindow.height=744
-mainWindow.x=-8
+mainWindow.height=726
+mainWindow.x=1
 class.ForLoop.image=for-loop-bg.jpg
 target2.type=ClassTarget
 world.lastInstantiated=ForLoop
