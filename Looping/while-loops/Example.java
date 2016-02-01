@@ -44,18 +44,17 @@ public class Example extends Actor
     //       move(1);
     //  }
     
-    // What happens when the above runs?
+    // What happens when the above runs? What does the last println statement
+    // print.  Why?
     
-    // Try to rewrite the for loop so that it prints the
+    // Try to rewrite the for while so that it prints the
     // following output:
     
     //x=1;
     //x=2;
     
-      while (!isAtEdge()){
-           move(1);
-    }
-    Greenfoot.stop();
+    
+    
     int x=0;
     while (x !=4 ){
         System.out.println("x = "+x);
